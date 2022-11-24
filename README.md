@@ -1,8 +1,7 @@
 # Animate position along the path in SwiftUI
-In SwiftUI every animation would always take the shortest path. It is easy to imagine animating position along the path. Is lack of this option the design choice or just the current state of the framework?
+In SwiftUI every animation would always take the shortest path. It is easy to imagine animating position along the infinite numbet of different path. No matter if lack of this option is a design choice or just the current state of the framework, I am trying to implement a right modifier.
 
 # 
-The code is just to ilustrate the concept, and is not solving the problem.
-The path needs to be scalable, taking the |vector| of translation as one unit in X dimension and perpendicular Y dimension.
-Such path defined in unit space can be used by the animation modifier.
+The code is just to ilustrate the concept, and for now it is not solving the problem. The question is **how to adapt it for the given purpose.**
+
 
