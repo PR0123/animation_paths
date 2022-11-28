@@ -13,5 +13,5 @@ https://user-images.githubusercontent.com/81814529/204313318-aec2f1c6-fd45-4078-
 Qestions and choices:
 - with the clear goal, what would be the right way to tackle the problem?
 - what are main flaws in the first draft (firstDraft.swift)
-- are there obvious errors
+- are there obvious errors?
 - with animation applied only to change of position, should it rather be made in less general way?
