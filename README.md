@@ -15,3 +15,4 @@ Qestions and choices:
 - what are main flaws in the first draft (firstDraft.swift)
 - are there obvious errors?
 - with animation applied only to change of position, should it rather be made in less general way?
+- related question: https://developer.apple.com/forums/thread/720843
